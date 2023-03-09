@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+   /* align-items: center;*/
+    margin-top: 15%;
+    
+    /*margin-left: 22cm;*/
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    margin-left: 1cm;
+}
+input{
+    margin-left: 0cm;
+    width: 1.5cm;
+}
+
+#resto{
+    width: 2.2cm;
+}
+
+form > .respdiv{
+    margin-top: 2.3cm;
+    margin-left: -5.8cm;
+}
+
